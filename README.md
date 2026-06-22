@@ -61,6 +61,16 @@ Public Health Professional | Certified Freelancer (ALX Africa) | AI Automation &
 Building healthcare technology solutions with Python
 
 ---
+## 💻 Example Output
+
+```bash
+Clinic Appointment System
+
+1. Add Patient
+2. View Patients
+3. Search Patient
+4. Exit
+```
 
 ## 🌐 Connect With Me
 LinkedIn: www.linkedin.com/in/elechi-chinenye-freelancer
